@@ -35,6 +35,7 @@
 ## 📦 Быстрый запуск (рекомендуется)
 
 В разделе **Releases** доступна **portable-сборка для Windows** с уже встроенным PHP.
+https://github.com/erdekagi/php-server-rendered-site/releases/tag/portable-php
 
 ### ▶ Запуск
 1. Скачайте ZIP-архив из Releases
